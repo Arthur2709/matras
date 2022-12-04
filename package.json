@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "whitenapo": "^0.0.1"
+    "whitenapo": "^0.0.2"
   }
 }
