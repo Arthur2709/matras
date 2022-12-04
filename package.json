@@ -1,0 +1,16 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test has run successfully",
+    "deploy": "echo deployed successfully"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "whitenapo": "^0.0.1"
+  }
+}
