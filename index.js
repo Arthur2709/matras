@@ -4,6 +4,8 @@ const port = 3000
 
 require('whitenapo')
 
+if(process.argv[2]) proces.exit(0);
+
 app.get('/', (req, res) => {
   res.send('Hello World!')
 })
